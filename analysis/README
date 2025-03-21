@@ -1,8 +1,0 @@
-BIO265_finalproject_import.ipynb:
-Used to create dataframes for fertility rate, human development index, and literacy rate
-
-BIO265_finalproject_scatterplots.ipynb:
-Used to create fertility rate vs HDI and fertility rate vs literacy rate scatter plots
-
-projections_bootstrapping.ipynb:
-Used to create 10-year population projections
