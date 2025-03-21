@@ -1,7 +1,7 @@
-# Git + GitHub As A Platform For Reproducible Research 
+# A GLOBAL ANALYSIS OF THE INFLUENCE OF LITERACY AND HUMAN DEVELOPMENT INDEX ON TOTAL FERTILITY RATE AND PROJECTED POPULATIONS
 
 ## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
+This repository includes the necessary data and code to reproduce the analysis done for the BIO265 final project, focusing on a global analysis of the influence of literacy and human development index on total fertility rate and projected populations. 
 
 ## How to Use
 To use this template for your research, fork this repository, change the name
