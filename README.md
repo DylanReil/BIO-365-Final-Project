@@ -45,9 +45,6 @@ All test suites for your code. *Any custom code you've written should be thoroug
 ### **`software_module`** 
 Custom code you've written that is *not* executed directly, but is called from files in the `code` directory. If you've written your code in Python, for example, this can be the root folder for your custom software module or simply house a file with all of your functions. 
 
-### **`templates`** 
-Files that serve as blank templates that document the procedures taken for each experiment, simulation, or analysis routine. 
-
 ### Required Files
 There are some files which I consider to be mandatory for any project.
 
